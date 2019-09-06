@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:title="Item"
+	android:icon="@drawable/ic_launcher_background"
+	android:id="@+id/bottom1"/>
+	<item android:title="item2"
+		  android:id="@+id/bottom2"
+		  android:icon="@drawable/ic_launcher_background"></item>
+</menu>
